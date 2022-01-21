@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kadam
-- 👀 I’m interested in Data Science, Machine Learning,Software Developmemnt & occasionally Web Development with DSA skills
-- 🌱 I’m currently learning various ML algorithms and Data Science Techniques
+- 👀 I’m interested in Data Science, Machine Learning & Web Development
+- 🌱 I’m currently learning various Web Dev Tools like React.JS
 - 📫 How to reach me kadamrohit0101@gmail.com
 
 <!---
